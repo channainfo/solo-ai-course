@@ -75,6 +75,18 @@ pai_course/
     │   ├── application-form.md
     │   └── candidate-selection-criteria.md
     ├── student-projects/            # Example projects & specs
+    │   ├── 00-sample-projects-overview.md
+    │   ├── 01-content-repurposer-mvp.md
+    │   ├── 02-ai-email-assistant-mvp.md
+    │   ├── 03-micro-saas-idea-validator.md
+    │   ├── 04-ai-social-media-manager.md
+    │   ├── 05-personalized-learning-assistant.md
+    │   ├── activities/              # Daily activity guides
+    │   │   ├── 01-content-repurposer-activities.md
+    │   │   ├── 02-ai-email-assistant-activities.md
+    │   │   ├── 03-saas-validator-activities.md
+    │   │   ├── 04-social-media-manager-activities.md
+    │   │   └── 05-learning-assistant-activities.md
     │   ├── sample-mvp-projects.md
     │   └── taskflow-technical-specs.md
     ├── resources/                   # Tools & guides
@@ -144,8 +156,28 @@ For detailed selection criteria, see [Candidate Selection Criteria](ai-mvp-curri
 1. Review the [Course Overview](ai-mvp-curriculum/course-modules/00-course-overview.md)
 2. Complete the [Application Form](ai-mvp-curriculum/admissions/application-form.md)
 3. Check the [AI MVP Course Outline](AI_MVP_Course_Outline.md)
-4. Explore the weekly modules in the `ai-mvp-curriculum/` directory
-5. Upon acceptance, join the Discord community
+4. Explore [Sample MVP Projects](ai-mvp-curriculum/student-projects/00-sample-projects-overview.md)
+5. Review daily activity guides for your chosen project
+6. Upon acceptance, join the Discord community
+
+## 📋 Sample MVP Projects
+
+Choose from 5 comprehensive project templates, each with detailed daily activities:
+
+| Project | Difficulty | Revenue Potential | Activity Guide |
+|---------|------------|-------------------|----------------|
+| **Content Repurposer Pro** | Beginner | $500-2K/mo | [42-Day Guide](ai-mvp-curriculum/student-projects/activities/01-content-repurposer-activities.md) |
+| **AI Email Assistant** | Beginner | $1K-5K/mo | [42-Day Guide](ai-mvp-curriculum/student-projects/activities/02-ai-email-assistant-activities.md) |
+| **Micro-SaaS Validator** | Intermediate | $2K-10K/mo | [42-Day Guide](ai-mvp-curriculum/student-projects/activities/03-saas-validator-activities.md) |
+| **AI Social Media Manager** | Beginner-Int | $1.5K-8K/mo | [42-Day Guide](ai-mvp-curriculum/student-projects/activities/04-social-media-manager-activities.md) |
+| **Learning Assistant** | Intermediate | $2K-15K/mo | [42-Day Guide](ai-mvp-curriculum/student-projects/activities/05-learning-assistant-activities.md) |
+
+Each project includes:
+- **Daily Activities** - Step-by-step 6-week roadmap
+- **Technical Stack** - No-code tools + AI integrations  
+- **Marketing Strategy** - Launch week tactics
+- **Revenue Projections** - Realistic growth targets
+- **Common Pitfalls** - What to avoid
 
 ## 📖 Self-Paced Learning Components
 
