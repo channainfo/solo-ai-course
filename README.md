@@ -89,6 +89,21 @@ pai_course/
     │   │   └── 05-learning-assistant-activities.md
     │   ├── sample-mvp-projects.md
     │   └── taskflow-technical-specs.md
+    ├── exercises/                   # Practice & assessments
+    │   ├── 00-exercises-framework.md
+    │   ├── week1-foundation-assessments.md
+    │   ├── peer-review-system.md
+    │   ├── skill-building-drills.md
+    │   ├── daily/                   # Detailed daily exercises
+    │   │   ├── day1-ai-tools-mastery.md
+    │   │   ├── day2-user-research-excellence.md
+    │   │   ├── day3-market-analysis-sprint.md
+    │   │   ├── day4-rapid-prototyping-challenge.md
+    │   │   ├── day5-value-proposition-workshop.md
+    │   │   └── day6-7-weekend-validation-challenge.md
+    │   └── weekly/                  # Weekly challenge formats
+    │       ├── week2-development-challenges.md
+    │       └── week5-launch-execution.md
     ├── resources/                   # Tools & guides
     │   └── 05-resources-tools-guide.md
     └── instructor-materials/        # Teaching resources
@@ -178,6 +193,50 @@ Each project includes:
 - **Marketing Strategy** - Launch week tactics
 - **Revenue Projections** - Realistic growth targets
 - **Common Pitfalls** - What to avoid
+
+## 🎯 Practice & Assessment System
+
+Our comprehensive exercise framework ensures maximum learning efficiency:
+
+### 📚 Daily Practice (30 min/day)
+- **Skill Drills** - AI tools, customer interviews, design sprints
+- **Micro-Exercises** - 15-30 min focused practice sessions
+- **Progress Tracking** - Daily confidence and competency scoring
+- **Peer Reviews** - Structured feedback on work-in-progress
+
+### 📊 Weekly Assessments
+- **Technical Challenges** - Hands-on skill demonstrations
+- **Presentation Practice** - 5-minute pitch refinements
+- **Peer Evaluations** - 360-degree feedback from classmates
+- **Milestone Reviews** - Progress toward launch goals
+
+### 🤝 Collaborative Learning
+- **Learning Pods** - Groups of 4-5 students for mutual support
+- **Buddy System** - Paired accountability partners
+- **Code Reviews** - Technical feedback sessions
+- **Demo Days** - Weekly progress presentations
+
+**Practice Resources:**
+- [Exercise Framework](ai-mvp-curriculum/exercises/00-exercises-framework.md)
+- [Week 1 Assessments](ai-mvp-curriculum/exercises/week1-foundation-assessments.md)
+- [Peer Review System](ai-mvp-curriculum/exercises/peer-review-system.md)
+- [Skill Building Drills](ai-mvp-curriculum/exercises/skill-building-drills.md)
+
+**Daily Exercise Guides:**
+
+**Week 1 - Foundation & Validation:**
+- [Day 1: AI Tools Mastery](ai-mvp-curriculum/exercises/daily/day1-ai-tools-mastery.md) - 30 min
+- [Day 2: User Research Excellence](ai-mvp-curriculum/exercises/daily/day2-user-research-excellence.md) - 45 min
+- [Day 3: Market Analysis Sprint](ai-mvp-curriculum/exercises/daily/day3-market-analysis-sprint.md) - 40 min  
+- [Day 4: Rapid Prototyping Challenge](ai-mvp-curriculum/exercises/daily/day4-rapid-prototyping-challenge.md) - 60 min
+- [Day 5: Value Proposition Workshop](ai-mvp-curriculum/exercises/daily/day5-value-proposition-workshop.md) - 35 min
+- [Day 6-7: Weekend Validation Challenge](ai-mvp-curriculum/exercises/daily/day6-7-weekend-validation-challenge.md) - 6 hours
+
+**Sample Daily Exercises (Other Weeks):**
+- [Week 2, Day 8: Platform Mastery](ai-mvp-curriculum/exercises/daily/week2-day8-platform-mastery.md) - 45 min
+- [Week 3, Day 15: Beta Testing Intensive](ai-mvp-curriculum/exercises/daily/week3-day15-beta-testing-intensive.md) - 60 min
+- [Week 4, Day 22: Marketing Launch Prep](ai-mvp-curriculum/exercises/daily/week4-day22-marketing-launch-prep.md) - 50 min
+- [Week 6, Day 36: Growth Optimization](ai-mvp-curriculum/exercises/daily/week6-day36-growth-optimization.md) - 55 min
 
 ## 📖 Self-Paced Learning Components
 
